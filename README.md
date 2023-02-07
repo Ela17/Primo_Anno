@@ -4,10 +4,10 @@
 Pubblicherò tutto il mio materiale: appunti, programmi, esercizi etc.
 
 ## PRIMO SEMESTRE
-- [Programmazione 1](https://github.com/Corso-A-2022-2023/Elena/tree/main/Programmazione%201)
-- [Logica](https://github.com/Corso-A-2022-2023/Elena/tree/main/Logica)
-- [Matematica discreta](https://github.com/Corso-A-2022-2023/Elena/tree/main/Matematica%20Discreta)
-- [Calcolo matriciale e ricerca operativa](https://github.com/Corso-A-2022-2023/Elena/tree/main/CalcoloMatriciale_RicercaOperativa)
+- [Calcolo matriciale e ricerca operativa](https://github.com/Ela17/Primo_Anno/tree/main/CalcoloMatriciale_RicercaOperativa)
+- [Logica](https://github.com/Ela17/Primo_Anno/tree/main/Logica)
+- [Matematica discreta](https://github.com/Ela17/Primo_Anno/tree/main/Matematica%20Discreta)
+- [Programmazione 1](https://github.com/Ela17/Primo_Anno/tree/main/Programmazione%201)
 
 ## SECONDO SEMESTRE
 - [Architettura degli elaboratori]()
