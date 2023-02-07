@@ -1,7 +1,4 @@
 # Primo Anno a.a. 2022-2023
-  Benvenuti nella mia repo personale :sparkling_heart:
-
-Pubblicherò tutto il mio materiale: appunti, programmi, esercizi etc.
 
 ### PRIMO SEMESTRE
 - [Calcolo matriciale e ricerca operativa](https://github.com/Ela17/Primo_Anno/tree/main/CalcoloMatriciale_RicercaOperativa)
