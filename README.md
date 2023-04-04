@@ -7,4 +7,4 @@
 - [Programmazione 1](https://github.com/Ela17/Primo_Anno/tree/main/Programmazione%201)
 
 ### SECONDO SEMESTRE
-- [Architettura degli elaboratori]()
+- [Architettura degli elaboratori](https://github.com/Ela17/Primo_Anno/tree/main/Architettura%20Degli%20Elaboratori)
