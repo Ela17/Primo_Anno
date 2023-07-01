@@ -5,4 +5,5 @@ Appunti ed esercizi di Architettura degli Elaboratori relativi al corso A del pr
 - Laboratori svolti
 - [Simulazione piattaforma e-learn](https://github.com/Ela17/Primo_Anno/tree/main/Architettura%20Degli%20Elaboratori/simulazione%20e-learn)
 - [Pdf con domande e risposte per ripassare per l'orale](https://github.com/Ela17/Primo_Anno/blob/main/Architettura%20Degli%20Elaboratori/Domande%20e%20risposte.pdf)
+- [Esonero2 15giugno23 con soluzioni](https://github.com/Ela17/Primo_Anno/blob/main/Architettura%20Degli%20Elaboratori/Esame_Giugno23.pdf)
 - [Riassunto del libro](https://github.com/Ela17/Primo_Anno/blob/main/Architettura%20Degli%20Elaboratori/Riassunto.pdf)
